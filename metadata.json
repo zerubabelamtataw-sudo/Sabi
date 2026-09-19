@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Gaming Platform",
+  "description": "A complete Telegram-based gaming platform featuring modular Bingo and Numbers game engines, shared services, wallet management, and an admin interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
